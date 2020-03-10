@@ -1,0 +1,4 @@
+#!/bin/sh
+INEWS=/usr/local/bin/inews
+cat newsgroup-list-header checkgroups | ${INEWS} -f 'jf7wex@jf7wex.sdj.miyagi.prug.or.jp' -d ampr -n 'ampr.news.group,ampr.news.lists' -t 'List of Active ampr.* newsgroups'
+exit 0

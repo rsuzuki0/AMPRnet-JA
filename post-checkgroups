@@ -1,0 +1,5 @@
+#!/bin/sh
+# only user 'news' can execute this
+INEWS=/usr/local/news/inews
+cat checkgroups | ${INEWS} -f 'kenji@k2r.or.jp' -a 'kenji@k2r.or.jp' -d ampr -n 'ampr.news.group.ctl,control' -t 'cmsg checkgroups' -c 'checkgroups'
+exit 0

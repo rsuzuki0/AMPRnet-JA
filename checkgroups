@@ -1,0 +1,117 @@
+ampr.binaries		Binary-only postings.
+ampr.binaries.d		Discussion about ampr.binaries postings.
+ampr.binaries.mac	Encoded Macintosh binary files.
+ampr.books		Discussion of books.
+ampr.books.magazines	Discussion of magazines.
+ampr.comp.lang.c	Discussion of the C programming language.
+ampr.comp.lang.misc	Discussion of computer languages not listed.
+ampr.dcom.isdn		Discussion about ISDN, e.g. NTT INSnet-64
+ampr.dcom.lan		Discussion of local area networks.
+ampr.dcom.modems	Discussion of modems and related software.
+ampr.dcom.protocols	Discussion of protocols.
+ampr.dcom.radio		Discussion of RF engring related to data comm.
+ampr.dcom.tnc		Discussion about TNC.
+ampr.dcom.uucp		Discussion of UUCP.
+ampr.document		Document postings. 
+ampr.document.d		Discussion about ampr.document postings.
+ampr.exchange		Online flea market.
+ampr.future		Looks at AMPRnet's future.
+ampr.general		*Important* and timely announcements.
+ampr.graphics		Postings of graphic data.
+ampr.graphics.d		Discussion about ampr.graphics postings.
+ampr.guide.misc		Miscellaneous guides for beginners.
+ampr.guide.terakoya	Guides of Terakoya NetNews system for beginners.
+ampr.jokes		Humorous postings.
+ampr.junk		Where you can find garbages and treasures.
+ampr.lang.english	Discussion of English language.
+ampr.lang.japanese	Discussion of Japanese language.
+ampr.lang.misc		Discussion of miscellaneous spoken/written languages.
+ampr.mail		Discussion of electronic mail issues on AMPRnet-JA.
+ampr.medicine		Discussion of medical topics.
+ampr.misc		Miscellaneous discussions nowhere else to go.
+ampr.news.adm		AMPRnet-JA administrative issues.
+ampr.news.config	AMPRnet-JA site configuration changes.
+ampr.news.group		Discussion of AMPRnet-JA newsgroups.
+ampr.news.lists		Statistical reports of AMPRnet-JA articles.
+ampr.news.local		Discussion of local newsgroup transfer on AMPRnet-JA.
+ampr.news.map		Maps of AMPRnet-JA topology.
+ampr.news.misc		Miscellaneous discussion of AMPRnet-JA operation.
+ampr.news.newsite	New site information of AMPRnet-JA.
+ampr.news.software.unix	Discussion about UNIX NetNews software.
+ampr.org.genesys-p	Issues and announcements from Genny/genny.or.jp.
+ampr.org.prug		Issues and announcements from PRUG/prug.or.jp.
+ampr.org.prug.policy	Discussion of PRUG goals, PRUGnet policies, etc.
+ampr.org.prug.tech	PRUGnet construction tips and issues.
+ampr.os.386bsd		Discussion of 386BSD and other variants.
+ampr.os.linux		Discussion of Linux.
+ampr.os.mach		Discussion of CMU Mach.
+ampr.os.minix		Discussion of MINIX.
+ampr.os.misc		Discussion of unlisted operating systems.
+ampr.os.msdos		Discussion of MS-DOS.
+ampr.os.os2			Discussion of OS/2.
+ampr.os.unix		Discussion of UNIX.
+ampr.plan.emc		Planning talk for EMC'94.
+ampr.plan.hamfair	Planning talk for annual Ham Fair events.
+ampr.plan.hamfair.yoyaku	Reservation info for Ham Fair events.
+ampr.plan.misc		Planning discussion on miscellaneous events.
+ampr.plan.partech	Planning discussion on PARTECH meetings.
+ampr.pobox		Personal message exchange place for NetNews-only sites
+ampr.pobox.d		Discussion about ampr.pobox and its tools.
+ampr.questions.misc	Miscellaneous questions.
+ampr.questions.tcpip	Questions about TCP/IP.
+ampr.radio.antenna	Discussion of radio antennas.
+ampr.radio.misc		Miscellaneous discussion on radio techniques.
+ampr.radio.rig		Discussion of radio equipments.
+ampr.rec.anime		Discussion of (Japanese) animation.
+ampr.rec.audio		Discussion of audiophiles.
+ampr.rec.autos		Discussion of automobiles and motor vehicles.
+ampr.rec.comics		Discussion of comics and related items.
+ampr.rec.debate		Discussion of how to talk and fight verbally.
+ampr.rec.food		Discussion of foods and eating.
+ampr.rec.games		Discussion of games.
+ampr.rec.ham.6m		Discussion of ham radio 50MHz (6m) band.
+ampr.rec.ham.hf		Discussion of ham radio below 30MHz.
+ampr.rec.ham.misc	Miscellaneous discussion on ham radio isssues.
+ampr.rec.idol		Discussion of Japanese idol singers/actors/actresses.
+ampr.rec.love		Talk on love and relationships.
+ampr.rec.movies		Discussion of motion pictures.
+ampr.rec.music		Discussion of music.
+ampr.rec.music.progressive	Discussion of "progressive rock" music.
+ampr.rec.p		It's P, anyway.
+ampr.rec.p.hot_springs	P-talk on hot springs.
+ampr.rec.photo		Discussion of photography.
+ampr.rec.play		Discussion of artistic performances.
+ampr.rec.railway	Discussion of railways.
+ampr.rec.sf		Discussion of science fiction novels.
+ampr.rec.sports		Discussion of general sports.
+ampr.rec.sports.baseball	Discussion of baseball.
+ampr.rec.sports.ski	Discussion of skiing.
+ampr.rec.travel		Discussion of traveling around the world.
+ampr.rec.tv		Discussion of TV programs.
+ampr.sci.astro		Discussion of astronomy.
+ampr.sci.misc		Miscellaneous discussion on scientific issues.
+ampr.soc.labor		Talk on labor issues and complaints.
+ampr.soc.misc		Talk on miscellaneous social issues.
+ampr.software.ka9q	Discussion of KA9Q Internet package and variants.
+ampr.software.knews-mac	Discussion of Macintosh Knews package.
+ampr.software.misc	Discussion of miscellaneous software.
+ampr.software.oimo	Discussion of Oimo mailer.
+ampr.software.soroban	Discussion of Soroban NetNews transfer agent.
+ampr.software.terakoya	Discussion of Terakoya system software components.
+ampr.software.yomikaki	Discussion of Yomikaki NetNews user agent.
+ampr.sources		Source code postings.
+ampr.sources.d		Discussion of ampr.sources.
+ampr.sys.ibmpc		Discussion of IBM PC and compatible computers.
+ampr.sys.j3100		Discussion of Toshiba J3100 computers.
+ampr.sys.mac		Discussion of Apple Macintosh computers.
+ampr.sys.misc		Discussion of miscellaneous computer systems.
+ampr.sys.news		Discussion of Sony NEWS workstations.
+ampr.sys.next		Discussion of NeXT workstations.
+ampr.sys.pc98		Discussion of NEC PC-9801 and compatible computers.
+ampr.sys.sun		Discussion of Sun workstations.
+ampr.tcpip		Discussion of TCP/IP protocol and related issues.
+ampr.test		For testing of NetNews software.
+ampr.trouble		Complaints and troubleshootings.
+ampr.windows.misc	Discussion of miscellaneous window systems.
+ampr.windows.ms		Discussion of Microsoft Windows.
+ampr.windows.x		Discussion of X Window systems.
